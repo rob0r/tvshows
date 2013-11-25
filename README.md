@@ -5,9 +5,9 @@ and displays the shows on the terminal
 
 Installation
 --------------
-git clone https://github.com/rob0r/tvshows.git
-cd tvshows
-chmod +x tvshows.rb
+git clone https://github.com/rob0r/tvshows.git  
+cd tvshows  
+chmod +x tvshows.rb  
 
 
 Usage
