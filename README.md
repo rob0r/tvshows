@@ -11,6 +11,6 @@ chmod +x tvshows.rb
 
 Usage
 --------------
-./tvshows today	(default if no argument is specified)  
-./tvshows tomorrow  
-./tvshows week  
+./tvshows.rb today	(default if no argument is specified)  
+./tvshows.rb tomorrow  
+./tvshows.rb week  
