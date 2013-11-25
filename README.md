@@ -11,6 +11,6 @@ chmod +x tvshows.rb
 
 Usage
 --------------
-./tvshows today			# shows on today (Default if no or wrong arg passed)  
-./tvshows tomorrow		# shows on tomorrow  
-./tvshows week			# shows on this month  
+./tvshows today	(default if no argument is specified)  
+./tvshows tomorrow  
+./tvshows week  
