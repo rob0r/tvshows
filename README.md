@@ -1,7 +1,6 @@
 TVShows
 =========
-Ruby script that grabs TV show information from http://tv.heapslol.com in XML format  
-and displays the shows on the terminal
+Ruby script that grabs TV show information from http://tv.heapslol.com in XML format and displays the shows on the terminal
 
 Installation
 --------------
