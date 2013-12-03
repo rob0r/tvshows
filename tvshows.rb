@@ -25,13 +25,13 @@ else url = url_for_today; puts "Todays Shows"; puts "-" * 15 + "\n"
 end
 
 # header to use
-header = {
+headers = {
   "User-Agent" => "Ruby_TVScript",
   "Accept" => "text/html"
 }
 
 # fetch the data
-tvdata = HTTParty.get(url, :headers => header)
+tvdata = HTTParty.get(url, :headers => headers)
 
 tvdata["tvdata"]["episodes"]["entry"].each do |ep|
   # formatting cleanup
